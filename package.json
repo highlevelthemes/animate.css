@@ -13,7 +13,7 @@
   "homepage": "https://animate.style/",
   "license": "Hippocratic-2.1",
   "animateConfig": {
-    "prefix": "animate__"
+    "prefix": "animate-"
   },
   "scripts": {
     "start": "npm-run-all raw prod compat",
